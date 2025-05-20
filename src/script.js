@@ -38,13 +38,9 @@ function showContacts(contactBook, groupToShow) {
     
         return `Namn: ${contact.name}, Telefon: ${contact.phone}`;
   
-  
-    
-
-   
-    return  // här ska sträng med namn och tekefonnummer visas i form av string interpolation
-      }
-      }
+        // här ska sträng med namn och tekefonnummer visas i form av string interpolation
+    }
+  }
 }
 
 
